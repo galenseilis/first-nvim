@@ -6,6 +6,7 @@ My first attempt at writing a Neovim plugin.
 
 ## Instructions
 
+0. Setup [kickstarter](https://github.com/nvim-lua/kickstart.nvim).
 1. Open `~/.config/nvim/init.lua`.
 2. Add the line `'galenseilis/first-nvim',` within the `require('lazy').setup` scope.
 3. Save.
